@@ -106,6 +106,7 @@ h2{
 /* Pricing section */
 #pricing{
     padding: 100px;
+    text-align:center;
 }
 .pricing-table{
     padding: 3% 2%;
